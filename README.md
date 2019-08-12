@@ -1,4 +1,4 @@
-#About
+# About
 
 This is the academic webpage of Stuti Thapa, graduate student at Purdue University. 
 
